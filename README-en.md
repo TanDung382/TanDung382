@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Tấn Dũng</h1>
 <h3 align="center">React Native Developer Intern | Software Engineering Student @ Nguyễn Tất Thành University</h3>
 
-<p align="center">
+<p align="left">
   🌐 <a href="./README.md">Tiếng Việt</a>
 </p>
 
